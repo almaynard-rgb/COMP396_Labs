@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 95
+  controlID: 91
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 597
     height: 939
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 96
+  controlID: 40
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -356,7 +356,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Week03
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -364,16 +364,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes/Week03
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\Game Programming - FALL 2023\COM396(401) - Game Programming
-    2\Labs\Lab2\Lab2\COMP396_401_F2023_LA02_AM
+  m_LastProjectPath: D:\Game Programming 2 Class Lab\COMP396_Labs\COMP396_401_F2023_LA02_AM
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a8590000
-    m_LastClickedID: 22952
+    m_SelectedIDs: 96590000
+    m_LastClickedID: 22934
     m_ExpandedIDs: 00000000965900009859000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -429,7 +428,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -542,8 +541,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: bc150000
-      m_LastClickedID: 0
+      m_SelectedIDs: 18590000
+      m_LastClickedID: 22808
       m_ExpandedIDs: 30fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -935,11 +934,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.037334487, y: -0.78835326, z: 0.04806421, w: 0.6122193}
     speed: 2
-    m_Value: {x: 0.039170597, y: -0.7881987, z: 0.050428648, w: 0.61209923}
+    m_Value: {x: -0.037334166, y: 0.78834647, z: -0.048063803, w: -0.612214}
   m_Size:
     m_Target: 10.771729
     speed: 2
-    m_Value: 10.307875
+    m_Value: 10.771729
   m_Ortho:
     m_Target: 1
     speed: 2
