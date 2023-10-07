@@ -352,11 +352,14 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/Unity/2022.3.9f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Unity/2022.3.9f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Common/FuzzyFunctions.cs"
+"Assets/Common/TestBigO.cs"
 "Assets/Common/Utilities.cs"
 "Assets/PlayerController.cs"
 "Assets/Scenes/Week02/GuardFSM.cs"
 "Assets/Scenes/Week03/GuardController.cs"
 "Assets/Scenes/Week03/StateMachine.cs"
+"Assets/Scenes/Week5/TestFuzzyFunctions.cs"
 -langversion:9.0
 
 /deterministic
