@@ -356,6 +356,8 @@
 "Assets/Common/TestBigO.cs"
 "Assets/Common/Utilities.cs"
 "Assets/PlayerController.cs"
+"Assets/Scenes/Lab06_Pathfinding_Djk_AM/DiGraph.cs"
+"Assets/Scenes/Lab06_Pathfinding_Djk_AM/TestDiGraph.cs"
 "Assets/Scenes/Week02/GuardFSM.cs"
 "Assets/Scenes/Week03/GuardController.cs"
 "Assets/Scenes/Week03/StateMachine.cs"

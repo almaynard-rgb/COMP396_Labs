@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Week5/Week05_AM.unity
+- path: Assets/Scenes/Lab06_Pathfinding_Djk_AM/Lab06_Pahtfinding_Djk.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
